@@ -1,0 +1,7 @@
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\UNIVERSIDAD\Ciclo 03\Programacion 1\Clase 15\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
